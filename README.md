@@ -1,14 +1,13 @@
 # rushwash
 - 세탁물 수거 - 세탁 서비스 웹페이지
+<img width="657" alt="image" src="https://github.com/baehyunjun97/rushwash/assets/110373230/749b6cd2-2a74-4add-a33e-beb361ceee4f">
+<hr>
 
-
-배현준 
+배현준 담당기능
 - ADMIN 페이지 작업 담당
 - 이슈관리자
 - JAVA, JavaScript, CSS,HTML, JSP, ORACLE DB
-
-<img width="657" alt="image" src="https://github.com/baehyunjun97/rushwash/assets/110373230/749b6cd2-2a74-4add-a33e-beb361ceee4f">
-
+<hr>
 
 운영체제 : window 11 <br>
 사용언어 : JAVA, JavaScript, CSS,HTML <br>
@@ -17,7 +16,7 @@ DB : ORACLE DB  <br>
 Tool : Eclipse  <br>
 WAS : TOMCAT 9.0  <br>
 Collaboration : GIT, SourceTree  <br>
-
+<hr>
 
 **화면**
 
